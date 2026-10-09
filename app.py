@@ -22,3 +22,5 @@ if final_score >= 50:
     st.success(f"🎉 **Status: Passed!** Final calculated mark is **{final_score}%**")
 else:
     st.error(f"⚠️ **Status: Review Needed.** Final calculated mark is **{final_score}%**")
+
+
